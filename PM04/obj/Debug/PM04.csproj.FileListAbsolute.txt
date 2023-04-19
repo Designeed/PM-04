@@ -1,0 +1,15 @@
+G:\Экзамен\PM-04\PM04\bin\Debug\PM04.exe.config
+G:\Экзамен\PM-04\PM04\bin\Debug\PM04.exe
+G:\Экзамен\PM-04\PM04\bin\Debug\PM04.pdb
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.csproj.AssemblyReference.cache
+G:\Экзамен\PM-04\PM04\obj\Debug\MainWindow.g.cs
+G:\Экзамен\PM-04\PM04\obj\Debug\App.g.cs
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04_MarkupCompile.cache
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04_MarkupCompile.lref
+G:\Экзамен\PM-04\PM04\obj\Debug\MainWindow.baml
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.g.resources
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.Properties.Resources.resources
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.csproj.GenerateResource.cache
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.csproj.CoreCompileInputs.cache
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.exe
+G:\Экзамен\PM-04\PM04\obj\Debug\PM04.pdb
